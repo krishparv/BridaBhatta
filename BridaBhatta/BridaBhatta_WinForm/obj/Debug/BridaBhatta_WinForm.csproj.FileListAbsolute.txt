@@ -1,0 +1,17 @@
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\bin\Debug\BridaBhatta_WinForm.exe
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\bin\Debug\BridaBhatta_WinForm.exe.config
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\bin\Debug\BridaBhatta.Bll.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\bin\Debug\BridaBhatta.Common.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\bin\Debug\LFA.Forum.DAL.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\bin\Debug\LFA.Forum.DAL.pdb
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\bin\Debug\BridaBhatta.Bll.pdb
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\bin\Debug\BridaBhatta.Common.pdb
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\obj\Debug\BridaBhatta_WinForm.csprojResolveAssemblyReference.cache
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\obj\Debug\BridaBhatta_WinForm.Form1.resources
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\obj\Debug\BridaBhatta_WinForm.Properties.Resources.resources
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\obj\Debug\BridaBhatta_WinForm.csproj.GenerateResource.Cache
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\obj\Debug\BridaBhatta_WinForm.exe
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta_WinForm\obj\Debug\BridaBhatta_WinForm.pdb
+C:\Users\ani\Documents\Visual Studio 2013\Projects\LFAForumProject\BridaBhattaa\BridaBhatta\BridaBhatta\BridaBhatta_WinForm\bin\Debug\BridaBhatta_WinForm.exe.config
+C:\Users\ani\Documents\Visual Studio 2013\Projects\LFAForumProject\BridaBhattaa\BridaBhatta\BridaBhatta\BridaBhatta_WinForm\obj\Debug\BridaBhatta_WinForm.exe
+C:\Users\ani\Documents\Visual Studio 2013\Projects\LFAForumProject\BridaBhattaa\BridaBhatta\BridaBhatta\BridaBhatta_WinForm\obj\Debug\BridaBhatta_WinForm.pdb

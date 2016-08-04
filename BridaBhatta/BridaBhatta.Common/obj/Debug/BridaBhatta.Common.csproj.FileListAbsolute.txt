@@ -1,0 +1,5 @@
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Common\bin\Debug\BridaBhatta.Common.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Common\bin\Debug\BridaBhatta.Common.pdb
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Common\obj\Debug\BridaBhatta.Common.csprojResolveAssemblyReference.cache
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Common\obj\Debug\BridaBhatta.Common.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Common\obj\Debug\BridaBhatta.Common.pdb

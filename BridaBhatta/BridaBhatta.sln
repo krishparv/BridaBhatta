@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridaBhatta", "BridaBhatta\BridaBhatta.csproj", "{849E9CB7-7AAE-4517-B4E0-7A1C7FBBB3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridaBhatta_WinForm", "BridaBhatta_WinForm\BridaBhatta_WinForm.csproj", "{66FEDAF2-AD5E-4D86-A2C4-50158B387F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LFA.Forum.DAL", "..\LFAForumProject\NewRepo\SharedProject\LFA.Forum.DAL\LFA.Forum.DAL.csproj", "{915C9F9B-7C8B-4BCD-B6F5-3BA31BD263EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharedFolder", "SharedFolder", "{C40DEC9E-F32F-4F1C-89A9-D40293C34319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridaBhatta.Bll", "BridaBhatta.Bll\BridaBhatta.Bll.csproj", "{4A158673-D91B-46EE-ABBA-9AFAF262EF05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridaBhatta.Common", "BridaBhatta.Common\BridaBhatta.Common.csproj", "{7AF276DA-AF63-420A-89C0-A1FF37BEEF91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849E9CB7-7AAE-4517-B4E0-7A1C7FBBB3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849E9CB7-7AAE-4517-B4E0-7A1C7FBBB3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849E9CB7-7AAE-4517-B4E0-7A1C7FBBB3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849E9CB7-7AAE-4517-B4E0-7A1C7FBBB3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66FEDAF2-AD5E-4D86-A2C4-50158B387F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FEDAF2-AD5E-4D86-A2C4-50158B387F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FEDAF2-AD5E-4D86-A2C4-50158B387F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FEDAF2-AD5E-4D86-A2C4-50158B387F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915C9F9B-7C8B-4BCD-B6F5-3BA31BD263EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915C9F9B-7C8B-4BCD-B6F5-3BA31BD263EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915C9F9B-7C8B-4BCD-B6F5-3BA31BD263EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915C9F9B-7C8B-4BCD-B6F5-3BA31BD263EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A158673-D91B-46EE-ABBA-9AFAF262EF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A158673-D91B-46EE-ABBA-9AFAF262EF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A158673-D91B-46EE-ABBA-9AFAF262EF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A158673-D91B-46EE-ABBA-9AFAF262EF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF276DA-AF63-420A-89C0-A1FF37BEEF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF276DA-AF63-420A-89C0-A1FF37BEEF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF276DA-AF63-420A-89C0-A1FF37BEEF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF276DA-AF63-420A-89C0-A1FF37BEEF91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{915C9F9B-7C8B-4BCD-B6F5-3BA31BD263EB} = {C40DEC9E-F32F-4F1C-89A9-D40293C34319}
+		{4A158673-D91B-46EE-ABBA-9AFAF262EF05} = {C40DEC9E-F32F-4F1C-89A9-D40293C34319}
+		{7AF276DA-AF63-420A-89C0-A1FF37BEEF91} = {C40DEC9E-F32F-4F1C-89A9-D40293C34319}
+	EndGlobalSection
+EndGlobal

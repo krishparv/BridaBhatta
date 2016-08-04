@@ -1,0 +1,3 @@
+C:\Users\ani\Documents\Visual Studio 2013\Projects\Class1Test\leapfrog-blog-test\BridaBhatta\BridaBhatta\bin\Debug\BridaBhatta.exe.config
+C:\Users\ani\Documents\Visual Studio 2013\Projects\Class1Test\leapfrog-blog-test\BridaBhatta\BridaBhatta\obj\Debug\BridaBhatta.exe
+C:\Users\ani\Documents\Visual Studio 2013\Projects\Class1Test\leapfrog-blog-test\BridaBhatta\BridaBhatta\obj\Debug\BridaBhatta.pdb

@@ -1,0 +1,7 @@
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Bll\bin\Debug\BridaBhatta.Bll.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Bll\bin\Debug\BridaBhatta.Bll.pdb
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Bll\bin\Debug\LFA.Forum.DAL.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Bll\bin\Debug\LFA.Forum.DAL.pdb
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Bll\obj\Debug\BridaBhatta.Bll.csprojResolveAssemblyReference.cache
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Bll\obj\Debug\BridaBhatta.Bll.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\BridaBhatta\BridaBhatta.Bll\obj\Debug\BridaBhatta.Bll.pdb
